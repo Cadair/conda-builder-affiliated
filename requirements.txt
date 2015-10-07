@@ -30,3 +30,7 @@ naima==0.6
 pyephem==3.7.6.0
 reproject==0.1
 astroplan==0.1
+suds-jurko==0.6
+contextlib2==0.4.0
+Glymur==0.8.2
+sunpy==0.6.1
